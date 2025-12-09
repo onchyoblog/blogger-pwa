@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Quản Lý Chi Tiêu',
+  shortName: 'Chi Tiêu',
+  description: 'Quản Lý Chi Tiêu',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
